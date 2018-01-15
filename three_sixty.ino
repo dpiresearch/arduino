@@ -4,6 +4,10 @@ Servo servoLeft;
 Servo servoRight;
 
 //
+// This code works with the Arduino Uno and the robot shield
+// Does a best approximation of a figure-8
+//
+//
 // Go straight straight_dur milliseconds
 //
 void goStraight(int straight_dur) {
